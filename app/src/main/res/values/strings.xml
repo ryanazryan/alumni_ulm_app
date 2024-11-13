@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Alumni ULM</string>
+
+
+    <string-array name="jenjangPendidikan">
+        <item>PASCASARJANA (S2)</item>
+        <item>DOKTOR (S3)</item>
+        <item>SMA/SMK/MA/MAN</item>
+        <item>SMP</item>
+        <item>SD</item>
+    </string-array>
+    <string-array name="jenisSosmed">
+        <item>WhatsApp</item>
+        <item>Instagram</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Youtube</item>
+    </string-array>
+    <string-array name="jenisSosmed2">
+        <item>Instagram</item>
+        <item>WhatsApp</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Youtube</item>
+    </string-array>
+    <string-array name="jenjangPendidikan2">
+        <item>SMA/SMK/MA/MAN</item>
+        <item>PASCASARJANA (S2)</item>
+        <item>DOKTOR (S3)</item>
+        <item>SMP</item>
+        <item>SD</item>
+    </string-array>
+    <string-array name="pekerjaan">
+        <item>PNS</item>
+        <item>SWASTA</item>
+        <item>WIRAUSAHA</item>
+    </string-array>
+    <string-array name="bidang">
+        <item>KOMPUTER</item>
+        <item>NON KOMPUTER</item>
+    </string-array>
+    <string-array name="penghasilan">
+        <item>LEBIH KECIL SAMA DENGAN Rp. 500.000</item>
+        <item>Rp. 500.001 - Rp. 1.000.000</item>
+        <item>Rp. 1.000.001 - Rp. 1.500.000</item>
+        <item>Rp. 1.500.001 - Rp. 2.000.000</item>
+        <item>Rp. 2.000.001 - Rp. 2.500.000</item>
+        <item>Rp. 2.500.001 - Rp. 3.000.000</item>
+        <item>Rp. 3.000.001 - Rp. 4.000.000</item>
+        <item>Rp. 4.000.001 - Rp. 5.000.000</item>
+        <item>Rp. 5.000.001 - Rp. 7.500.000</item>
+        <item>Rp. 7.500.001 - Rp. 10.000.000</item>
+        <item>Rp. 10.000.001 - Rp. 15.000.000</item>
+        <item>LEBIH DARI Rp. 15.000.000</item>
+    </string-array>
+    <string-array name="dosenPA">
+        <item>RUSMIATI</item>
+        <item>SITI ZULAIKHA</item>
+        <item>KRISDIANTO</item>
+        <item>NINIS HADI HARYANTI</item>
+        <item>FAISAL</item>
+        <item>BADRUZSAUFARI</item>
+        <item>RAHMAT YUNUS</item>
+        <item>ABDUL GAFUR</item>
+        <item>TAUFIQUR ROHMAN</item>
+        <item>NOER KOMARI</item>
+        <item>EVI MINTOWATI KUNTORINI</item>
+        <item>HERI BUDI SANTOSO</item>
+        <item>AZIDI IRWAN</item>
+        <item>EDI MIKRIANTO</item>
+        <item>NURMA SARI</item>
+        <item>TANTO BUDI SUSILO</item>
+        <item>SIMON SADOK SIREGAR</item>
+        <item>SUDARNINGSIH</item>
+        <item>IBRAHIM</item>
+        <item>THRESYE</item>
+        <item>SUTOMO</item>
+        <item>SRI CAHYO WAHYONO</item>
+        <item>ONI SOESANTO</item>
+        <item>RADNA NURMASARI</item>
+    </string-array>
+</resources>

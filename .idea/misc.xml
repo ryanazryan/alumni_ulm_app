@@ -1,0 +1,78 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/bg_arch.xml" value="0.114" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/bg_button.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/bg_edit_text.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/bg_edit_text_2.xml" value="0.114" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/bg_grid.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/bg_rounded.xml" value="0.1125" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/bg_scroll.xml" value="0.124" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/dialog_searchable_spinner.xml" value="0.1105" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/edit_text_background.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/edittext_background.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_account.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_baseline_edit.xml" value="0.111" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_baseline_info.xml" value="0.1245" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_contact.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_edit.xml" value="0.1165" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_nama.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_pass.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_personne.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_telp.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_twotone_camera_alt_24.xml" value="0.122" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ic_visible_on.xml" value="0.125" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/ripple_white.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/spinner.xml" value="0.111" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/style_spinner.xml" value="0.1095" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/toolbar.xml" value="0.115" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/top_shape.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/tv_bg_bio.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/drawable/varane.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout-v23/activity_login.xml" value="0.1984375" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout-v26/adapter_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_about.xml" value="0.16666666666666666" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_add_pekerjaan.xml" value="0.1628901239846088" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_add_pendidikan.xml" value="0.1628901239846088" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_add_sosial_media.xml" value="0.16666666666666666" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_akademik.xml" value="0.16666666666666666" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_biodata.xml" value="0.22" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_galeri.xml" value="0.1984375" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_pekerjaan.xml" value="0.1984375" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_pendidikan.xml" value="0.18333333333333332" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_sosial_media.xml" value="0.16666666666666666" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_sosmed.xml" value="0.1628901239846088" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_sosmed_detail.xml" value="0.1628901239846088" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_splash_screen.xml" value="0.1984375" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_update_akademik.xml" value="0.22" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_update_biodata.xml" value="0.22" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_update_pekerjaan.xml" value="0.22" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_update_pendidikan.xml" value="0.18333333333333332" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/activity_update_sosial_media.xml" value="0.22" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/adapter_main.xml" value="0.16203505771697307" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/adapter_pekerjaan.xml" value="0.1628901239846088" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/adapter_pendidikan.xml" value="0.16203505771697307" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/adapter_sosmed.xml" value="0.1628901239846088" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/list_view.xml" value="0.16203505771697307" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/slide_item_container.xml" value="0.16203505771697307" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/spinner_list_item.xml" value="0.1984375" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/toolbar.xml" value="0.22" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/layout/toolbar_about.xml" value="0.1628901239846088" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/menu/menu.xml" value="0.1984375" />
+        <entry key="..\:/Project Android Studio/AlumniMIPAULM/app/src/main/res/xml/network_security_config.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

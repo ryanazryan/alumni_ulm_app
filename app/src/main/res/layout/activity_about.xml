@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/clearColor"
+    tools:context=".AboutActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <include
+            android:id="@+id/include"
+            android:elevation="10dp"
+            layout="@layout/toolbar_about" />
+
+        <com.google.android.youtube.player.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="15dp"
+            android:id="@+id/youtube_player_view">
+        </com.google.android.youtube.player.YouTubePlayerView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:layout_marginBottom="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:text="Video Profil FMIPA ULM 2019" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="10dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/rounded_user_image"
+                android:src="@drawable/organisasi"
+                android:scaleType="fitXY"/>
+
+
+        </androidx.cardview.widget.CardView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/roboto_medium"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:text="Struktur Organisasi" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:onClick="expandd"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="8dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    app:cardElevation="10dp"
+                    app:contentPadding="20dp">
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:animateLayoutChanges="true">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/roboto_medium"
+                            android:textStyle="bold"
+                            android:textSize="18sp"
+                            android:textColor="@color/black"
+                            android:text="Gambaran Umum" />
+
+                        <TextView
+                            android:id="@+id/sejarah"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:text="Dari 49 perguruan tinggi negeri (PTN) di Indonesia, hanya 7 PTN yang telah membuka Program Studi Ilmu Komputer (SPMB 2005). Disamping itu di Kalimantan belum satupun PTN yang membuka program studi tersebut. Dengan daya tampung yang masih sedikit dapat diketahui bahwa peminat untuk belajar ilmu komputer cukup tinggi. Sementara itu di Kalimantan peminat tersebut hanya dapat dilayani oleh perguruan tinggi swasta dan lembaga-lembaga pendidikan/ pelatihan. Dengan semakin berkembangnya pembangunan diberbagai bidang di Kalimantan dan tentunya tidak dapat mengabaikan aspek teknologi informasi, maka diperlukan SDM yang berkompeten dibidang teknologi informasi dan perkembangannya guna memenuhi kebutuhan SDM khususnya di Kalimantan. Semakin banyak dan berkembangannya berbagai industri di Kalimantan menyebabkan terbukanya banyak peluang kerja. Diharapkan dengan adanya Program Studi Ilmu Komputer di Kalimantan Selatan bisa menghasilkan sarjana S1 Ilmu Komputer, yang selanjutnya bisa mendukung perkembangan pembangunan di Kalimantan.
+Sebagai instansi dan industri memerlukan tenaga ahli di bidang ilmu komputer untuk menangani bagian pengolahan data dan sistem informasi manajemennya. Terdapat 30 kabupaten/kota pada tiga propinsi (Kalimantan Selatan, Kalimantan Tengah, dan Kalimantan Timur) dan bila diasumsikan pada setiap kota terdapat 20 dinas (setiap dinas minimal memerlukan 2 tenaga ahli komputer) maka dapat diperkirakan kebutuhan tenaga ahli komputer minimal sebanyak 1200 orang. Jumlah tersebut masih belum mencakup kebutuhan untuk lembaga/perusahaan swasta nasional/ asing di Kalimantan dan kebutuhan tenaga pengajar untuk lembaga pendidikan komputer. Selaras dengan perkembangan yang pesat dari teknologi komputer, tentunya kebutuhan SDM yang ahli dalam ilmu juga semakin
+
+meningkat. Dari hasil dua kali sosialisasi untuk persiapan pembukaaan Program Studi Ilmu Komputer yang dilakukan FMIPA ULM menunjukkan bahwa stakeholder memberikan respon positif dan memberikan dukungan sepenuhnya."
+                            android:visibility="gone"
+                            android:textSize="14sp"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="20dp"
+                    android:onClick="expand"
+                    app:cardCornerRadius="8dp"
+                    app:cardElevation="10dp"
+                    app:contentPadding="20dp">
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:animateLayoutChanges="true"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/roboto_medium"
+                            android:text="Visi &amp; Misi"
+                            android:textColor="@color/black"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+                            android:id="@+id/visiMisi"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:text="VisiTerwujudnya Program Studi bidang ilmu komputer yang mampu bersaing secara nasional dalam otomasi data untuk mengoptimalkan potensi daerah serta mendukung e-government dengan teknologi kekinian."
+                            android:textSize="14sp"
+                            android:visibility="gone" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:onClick="expanddd"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="8dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="40dp"
+                    app:cardElevation="10dp"
+                    app:contentPadding="20dp">
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:animateLayoutChanges="true">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/roboto_medium"
+                            android:textStyle="bold"
+                            android:textSize="18sp"
+                            android:textColor="@color/black"
+                            android:text="Website Kami" />
+
+                            <Button
+                                android:id="@+id/btnWeb"
+                                android:layout_width="200dp"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/bg_button"
+                                android:layout_marginTop="10dp"
+                                android:visibility="gone"
+                                android:ems="15"
+                                android:fontFamily="@font/roboto_bold"
+                                android:text="Buka"
+                                android:textColor="@color/white"
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
+
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+
+</ScrollView>
