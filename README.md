@@ -2,9 +2,8 @@
 
 This repository contains the source code for the **Alumni FMIPA ULM** application. The app is designed to display alumni data of students from FMIPA (Faculty of Mathematics and Natural Sciences) at Universitas Lambung Mangkurat. It utilizes Java, Retrofit, and API integration to fetch and display alumni data in a user-friendly way.
 
-![Dashboard UI](https://github.com/ryanazryan/alumni_ulm_app/blob/master/Home%20UI.jpeg?raw=true)
 <img src="https://github.com/ryanazryan/alumni_ulm_app/blob/master/Home%20UI.jpeg?raw=true" alt="Dashboard UI" width="300"/>
-![Login UI](https://github.com/ryanazryan/alumni_ulm_app/blob/master/Login%20UI.jpeg?raw=true)
+<img src="https://github.com/ryanazryan/alumni_ulm_app/blob/master/Login%20UI.jpeg?raw=true" alt="Login UI" width="300"/>
 
 
 ## Features
