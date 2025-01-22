@@ -6,6 +6,8 @@ This repository contains the source code for the **Alumni FMIPA ULM** applicatio
   <img src="https://github.com/ryanazryan/alumni_ulm_app/blob/master/Home%20UI.jpeg?raw=true" alt="Dashboard UI" width="400"/>
   <img src="https://github.com/ryanazryan/alumni_ulm_app/blob/master/Login%20UI.jpeg?raw=true" alt="Login UI" width="400"/>
   <img src="https://github.com/ryanazryan/alumni_ulm_app/blob/master/Profile%20UI.jpeg?raw=true" alt="Profile UI" width ="400"/>
+  <img src="https://github.com/ryanazryan/alumni_ulm_app/blob/master/Halaman%20Update%20Pendidikan%20Activity.jpg?raw=true" alt="Update Pendidikan UI" width ="400"/>
+
 </div>
 
 ## Features
