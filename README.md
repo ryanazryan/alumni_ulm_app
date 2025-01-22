@@ -5,6 +5,7 @@ This repository contains the source code for the **Alumni FMIPA ULM** applicatio
 <div style="text-align: center;">
   <img src="https://github.com/ryanazryan/alumni_ulm_app/blob/master/Home%20UI.jpeg?raw=true" alt="Dashboard UI" width="300"/>
   <img src="https://github.com/ryanazryan/alumni_ulm_app/blob/master/Login%20UI.jpeg?raw=true" alt="Login UI" width="300"/>
+  <img src="https://github.com/ryanazryan/alumni_ulm_app/blob/master/Profile%20UI.jpeg?raw=true" alt="Profile UI" width ="300"/>
 </div>
 
 ## Features
